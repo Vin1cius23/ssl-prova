@@ -1,0 +1,3 @@
+Neste exercício foi criada uma estrutura de diretórios para armazenar certificados digitais.
+O diretório /etc/ssl/certificates é utilizado no sistema Linux para organizar certificados de forma segura.
+Essa organização facilita o gerenciamento e aumenta a segurança do sistema.
