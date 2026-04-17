@@ -1,0 +1,3 @@
+O OpenSSL é uma ferramenta utilizada para implementar criptografia e segurança em sistemas.
+Ele permite gerar chaves privadas, certificados digitais e realizar comunicação segura utilizando protocolos como SSL/TLS.
+Neste exercício foi realizada a atualização dos pacotes, instalação do OpenSSL e verificação da sua versão no sistema.
